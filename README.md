@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Shivam and I'm a ]Software Engineer, from Bihar</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Working on Quiz Mangement Web App<br>📚 I'm currently learning React<br>🎯 Goals: To be a Best Software Engineer<br>🎲 Fun fact: Finding Bug in Life</p>
 
 ###
 
