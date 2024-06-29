@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"  />
+  <a href="https://www.linkedin.com/in/code-shivam/"><img height="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"  /></a>
 </div>
 
 ###
@@ -17,15 +17,15 @@
 <p align="left"></p>
 
 ###
-
+<a href="https://www.linkedin.com/in/code-shivam/">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivamer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+</a>
 
 ###
-
-<img src="https://raw.githubusercontent.com/shivamer/shivamer/output/snake.svg" alt="Snake animation" />
+<a href="https://www.linkedin.com/in/code-shivam/">
 
 ###
 
@@ -74,5 +74,5 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
-
+</a>
 ###
